@@ -25,7 +25,7 @@ This repository contains coursework assignments covering topics in book **Introd
 - GLM
 
 
-# Technologies Used
+## Technologies Used
 
 Language
 - Python
